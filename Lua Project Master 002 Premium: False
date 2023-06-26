@@ -1,5 +1,5 @@
 local players = game:GetService("Players")
-local message = "Quer Nuker is updating please check back later"
+local message = "This Version Is Permanent Down Check Now The New Version!"
 
 function Shutdown()
    for i, v in pairs(players:GetChildren()) do
